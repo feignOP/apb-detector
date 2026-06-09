@@ -186,8 +186,7 @@ The test also writes `tests/output/apb_5k_detected.dump` which you can open in O
 
 If you use this tool in published work, please cite the simulation package and structure identification method:
 
-- Larsen, P. M. et al. (2016). Robust structural identification via polyhedral template matching. *Modelling Simul. Mater. Sci. Eng.* **24**, 055007.
-- OVITO: Stukowski, A. (2010). *Modelling Simul. Mater. Sci. Eng.* **18**, 015012.
+N/A
 
 ## License
 
