@@ -1,6 +1,6 @@
 # APB Detector
 
-A Python tool for detecting **Anti-Phase Boundaries (APBs)** in B2 intermetallic alloys from LAMMPS molecular-dynamics simulations. Works for any B2 alloy (CoAl, NiAl, FeAl, TiAl, …).
+A Python tool for detecting **Anti-Phase Boundaries (APBs)** in B2 intermetallic alloys from LAMMPS molecular-dynamics simulations. Works for any B2 alloy (CoAl, NiAl, FeAl, TiAl, …). This was created using Claude and tested by me. 
 
 ---
 
