@@ -176,17 +176,12 @@ Expected output:
 
 The test also writes `tests/output/apb_5k_detected.dump` which you can open in OVITO for visual confirmation.
 
-## Notes
-
-- **Non-periodic boundaries**: The KD-tree query does not wrap around periodic boundaries. This is correct for simulations using `ss ss ss` (shrink-wrapped) boundaries. For periodic simulations, consider using OVITO's neighbor finder instead.
-- **{110} vs {100} APBs**: The default threshold (4) targets {110} APBs, which are the most common under [001] compression of B2 CoAl. For {100} APBs (2 same-type NN per atom), set `--apb-min 2 --apb-max 2`.
-- **Thermal noise**: At 300 K, thermal displacements occasionally place one same-type atom among the 8 NN. The threshold ≥ 4 eliminates this noise.
 
 ## Citation
 
 If you use this tool in published work, please cite the simulation package and structure identification method:
 
-N/A
+N/A yet
 
 ## License
 
